@@ -1,4 +1,4 @@
-# Matrix_drawing
+# Matrix drawing
 
 ![image](https://github.com/CookWang1906/Matrix_drawing/assets/148769157/85aff57a-65b0-4974-9727-254b441aff64)
 
